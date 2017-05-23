@@ -1,2 +1,2 @@
 # git-exp
-git-tutorial
+git-learn
