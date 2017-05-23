@@ -1,2 +1,0 @@
-# git-exp
-git-learn
