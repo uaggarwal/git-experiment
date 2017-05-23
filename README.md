@@ -1,2 +1,2 @@
-# git-experiment
+# git-exp
 git-tutorial
